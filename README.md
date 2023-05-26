@@ -28,6 +28,8 @@ To run project in local, run below command
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+Working video of the project: https://drive.google.com/file/d/165bCKZYt35FQGrjdNklHj8SlVTaUgEoc/view?usp=sharing
+
 
 
 
