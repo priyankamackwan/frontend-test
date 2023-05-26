@@ -13,7 +13,7 @@ First clone the project using below command
 Navigate to the root directory and run below command
 ```bash
  1. cd frontend-test 
- 2 . npm install 
+ 2. npm install 
 ```
 ### Example .env (Replace with your backend api)
 ```bash
